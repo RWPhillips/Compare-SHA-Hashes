@@ -1,4 +1,4 @@
-# Get-SHA-Hash
+# Compare-SHA-Hashes
 
 A simple batch program that I created for Windows 10 that will check SHA256 or SHA512 hashes.
 I created this because I'm learning Security Fundamentals in college and wanted an easy way to test a file's integrty.
